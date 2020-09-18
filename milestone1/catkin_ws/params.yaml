@@ -1,0 +1,10 @@
+rosdistro: 'melodic
+
+  '
+roslaunch:
+  uris: {host_desktop_tqgdkqn__43975: 'http://DESKTOP-TQGDKQN:43975/'}
+rosversion: '1.14.9
+
+  '
+run_id: c1b8be18-f7ca-11ea-a0f1-00155df1c27d
+turtlesim: {background_b: 255, background_g: 86, background_r: 150}
