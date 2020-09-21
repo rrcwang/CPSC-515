@@ -9,7 +9,9 @@ The *Windows Subsystem for Linux* (WSL) allows Windows 10 users to directly run 
 * We'll have a fully functional Linux dev environment for this course and future projects
 * You can continue to use your preferred Windows text editor and preferences
 
-The main drawback is that this is likely less performant than the native Windows installation.  I have not had a chance to compare ROS/Gazebo in WSL Ubuntu to that ROS Windows 10, but it's been very usable on my desktop computer so far (Intel Core i5-9400F, 16 GB memory). I've tried a few different Gazebo simulations. In the past I have used Octave extensively in WSL with few issues.
+The main drawback is that this is likely less performant than the native Windows installation. Using these [benchmarking](https://www.phoronix.com/scan.php?page=article&item=wsl-wsl2-tr3970x&num=1) tests as a reference the difference is small but non-negligible.
+
+ I have not had a chance to compare ROS/Gazebo in WSL Ubuntu to that ROS Windows 10 personally, but it's been very usable on my desktop computer so far (Intel Core i5-9400F, 16 GB memory). I've tried a few different simple Gazebo simulations. In the past I have used Octave extensively in WSL with few issues.
 
 ### Requirements:
 * Windows 10 x64 updated to version 1903 or higher, Build 18362 or higher
